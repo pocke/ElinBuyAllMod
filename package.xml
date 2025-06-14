@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Buy all</title>
+  <id>me.pocke.buy-all</id>
+  <author>Masataka Pocke Kuwabara</author>
+  <loadPriority>100</loadPriority>
+  <version>0.23.152</version>
+  <tags>QoL</tags>
+  <description>
+(English is below Japanese)
+
+すべての商品を一括で購入できるようにします。
+
+商人や複製店の購入画面に、売りに出されている商品をすべて購入するボタンを追加します。
+
+[hr][/hr]
+
+This mod allows you to buy all items at once.
+
+It adds a button to the merchant and duplication shop purchase screens that allows you to buy all items for sale at once.
+
+[hr][/hr]
+
+https://github.com/pocke/ElinBuyAllMod
+  </description>
+</Meta>
